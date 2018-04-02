@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tictactoeActivity</string>
+    <string name="btn_Singleplayer">Multiplayer</string>
+    <string name="btn_singleplayer">SinglePlayer</string>
+    <string name="btn_o1" />
+    <string name="btn_02" />
+    <string name="btn_03" />
+    <string name="btn_04" />
+    <string name="btn_05" />
+    <string name="btn_06" />
+    <string name="btn_07" />
+    <string name="btn_08" />
+    <string name="btn_09" />
+    <string name="txtplayer1" >Player1: </string>
+    <string name="txtplayer2">Player2:</string>
+    <string name="txtView_info" />
+    <string name="btn_Reset">Reset Game</string>
+
+</resources>
